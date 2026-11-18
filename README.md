@@ -12,6 +12,13 @@ Challenge 1: Student Marks Calculator
 - Calculates total marks.
 - Calculates average marks.
 
+Challenge 2: Vowels and Consonant Counter
+
+- Accepts a sentence from the user.
+- Counts vowels and consonants.
+- Ignores spaces, numbers, and special characters.
+- Concepts: Strings, for loops, if-else, isalpha(), and variables.
+
 Technologies Used
 
 - Python
